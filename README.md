@@ -8,7 +8,7 @@ My very first projects, some from class, some of my own creation.
 
 ## Installation
 To view this project:
-1. Clone this repository: `git clone https://github.com/username/my-website-project.git`
+1. Clone this repository: `git clone https://github.com/alicynchains/css-101-projects`
 2. Open `index.html` in your browser
 
 ## Technologies Used
