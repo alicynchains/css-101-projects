@@ -1,0 +1,25 @@
+body {
+    background-image: url("../assets/images/paper.jpg");
+    background-size: 400px;
+    height: auto;
+    font-family: "Permanent Marker", cursive;
+}
+
+h1, h2 {
+    color:rgb(27, 27, 27);
+}
+/* Child */
+.box > p {
+    color: rgb(170, 14, 100);
+  }
+/* Descendent */
+.box li {
+    color: rgb(5, 14, 138);
+  }
+
+/* Chained */
+li.done {
+    text-decoration: line-through;
+}
+
+/* Multiple Combiners: I'm really struggling to find teh use right now. */

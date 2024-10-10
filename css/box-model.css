@@ -1,0 +1,41 @@
+body { 
+    display: block;
+  }
+
+  .box {
+          width: 300px;
+      }
+/*Demonstrates the difference between margin, padding, and borders. h1 is auto settings.*/
+h1 { 
+background-color: #B4D6CD;
+margin: auto;
+border:#B4D6CD;
+padding: 0%;
+}
+/*Demonstrates the use of the margin property ONLY*/
+h2 {
+background-color: rgb(123, 218, 186);
+margin-top: 5%;
+margin-right: 5%;
+margin-bottom: 5%;
+margin-left: 5%;
+}
+/*Demonstrates the use of a border ONLY*/    
+h3 { 
+border:2pt solid #FF8C9E;
+}
+/*Demonstrates the use of Padding ONLY*/
+h4 {
+background-color: #FFDA76;
+padding-top: 5%;
+padding-right: 5%;
+padding-bottom: 5%;
+padding-left: 5%;
+}
+/*Demonstrates the use of all tools at once using a shorthand.*/
+p {
+background-color: #FF8C9E;
+margin: 5%;
+border:2pt solid #FFDA76;
+padding: 5%;
+}

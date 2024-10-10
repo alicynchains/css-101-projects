@@ -1,0 +1,24 @@
+.box {
+  background-color: #025464;
+  padding: 10px;
+}
+
+#outer-box {
+  background-color: #6A9C89;
+}
+
+.inner-box {
+  border: 3pt solid #C1D8C3;
+}
+
+h1 {
+  color: #E57C23;
+}
+
+h2 {
+  color: #E8AA42;
+}
+
+.p-text {
+  color: #F8F1F1;
+}
